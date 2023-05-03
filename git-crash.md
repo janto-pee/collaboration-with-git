@@ -1,5 +1,5 @@
 Git is a Version Control System. A version control system is a software designed to record changes within one or more files over time. 
-When developers work on a project, different files are created and changes are continuously made to parts of the code. As project grow, some of the codes result in conflict. Git enables us to rollback, revert or cancel pending changes within one or more file. Git also enables us compare the changes made to the different versions of a project. Having understood the importance of git, let's dive in
+When developers work on a project, different files are created and changes are continuously made to parts of the code. As project grow, some of the codes result in conflict. Git enables us to rollback, revert or cancel pending changes within one or more file. Git also enables us compare the changes made to the different versions of a project. Having understood the importance of git, let's dive in.
 
 ### Installation
 If you don't have git already installed on your machine, you can download the latest version from git-scm website https://git-scm.com according to the version of your operating system - Windows, Mac or Linux.
